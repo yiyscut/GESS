@@ -1,0 +1,234 @@
+########################################
+数据集: Fountain
+########################################
+
+▶ 方法: MTLDesc (res_Fountain_MTLDesc.txt)
+		Fountain|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Fountain|            11|             2498|           11652|         4.664532|               1059.272727|         0.711208|
+	
+▶ 方法: SuperPoint (res_Fountain_SuperPoint.txt)
+		Fountain|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Fountain|            11|             2140|            9626|         4.498131|                875.090909|         0.809789|
+	
+▶ 方法: SAMFeat (res_Fountain_SAMFeat.txt)
+		Fountain|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Fountain|            11|             1653|            6973|         4.218391|                633.909091|         0.651522|
+	
+▶ 方法: SFD2 (res_Fountain_SFD2.txt)
+		Fountain|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Fountain|            11|             2312|           10497|         4.540225|                954.272727|         0.622384|
+	
+▶ 方法: ALikeN (res_Fountain_ALikeN.txt)
+		Fountain|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Fountain|            11|             2638|           12191|         4.621304|               1108.272727|         0.791333|
+	
+▶ 方法: D2Net (res_Fountain_D2Net.txt)
+		Fountain|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Fountain|            11|             1977|            7077|         3.579666|                643.363636|            1.214|
+	
+▶ 方法: R2D2 (res_Fountain_R2D2.txt)
+		Fountain|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Fountain|            11|             1725|           10537|         6.108406|                957.909091|         0.944029|
+	
+▶ 方法: GESS (res_Fountain_GESS.txt)
+		Fountain|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Fountain|            11|             2237|           10756|         4.808225|                977.818182|         0.562116|
+	
+
+
+
+########################################
+数据集: Gendarmenmarkt
+########################################
+
+▶ 方法: MTLDesc (res_Gendarmenmarkt_MTLDesc.txt)
+		Gendarmenmarkt|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Gendarmenmarkt|          1052|            84766|          666500|         7.862822|                633.555133|         1.024221|
+	
+▶ 方法: SuperPoint (res_Gendarmenmarkt_SuperPoint.txt)
+		Gendarmenmarkt|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Gendarmenmarkt|           935|            88248|          361554|         4.097022|                 386.68877|         1.054517|
+	
+▶ 方法: SAMFeat (res_Gendarmenmarkt_SAMFeat.txt)
+		Gendarmenmarkt|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Gendarmenmarkt|           839|            34227|          260327|         7.605896|                310.282479|         0.945496|
+	
+▶ 方法: SFD2 (res_Gendarmenmarkt_SFD2.txt)
+		Gendarmenmarkt|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Gendarmenmarkt|          1135|           152608|          793604|         5.200278|                699.210573|         1.093753|
+	
+▶ 方法: ALikeN (res_Gendarmenmarkt_ALikeN.txt)
+		Gendarmenmarkt|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Gendarmenmarkt|           519|            25873|          167114|         6.459011|                321.992293|         1.013476|
+	
+▶ 方法: D2Net (res_Gendarmenmarkt_D2Net.txt)
+		Gendarmenmarkt|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Gendarmenmarkt|           963|            18515|           38709|         2.090683|                 40.196262|         0.984031|
+	
+▶ 方法: R2D2 (res_Gendarmenmarkt_R2D2.txt)
+		Gendarmenmarkt|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Gendarmenmarkt|          1116|           162597|          725370|         4.461152|                649.973118|         1.106998|
+	
+▶ 方法: GESS (res_Gendarmenmarkt_GESS.txt)
+		Gendarmenmarkt|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Gendarmenmarkt|           821|            43822|          355920|         8.121948|                433.520097|         0.838548|
+	
+
+
+
+########################################
+数据集: Herzjesu
+########################################
+
+▶ 方法: MTLDesc (res_Herzjesu_MTLDesc.txt)
+		Herzjesu|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Herzjesu|             8|             1971|            8530|         4.327752|                   1066.25|         0.701461|
+	
+▶ 方法: SuperPoint (res_Herzjesu_SuperPoint.txt)
+		Herzjesu|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Herzjesu|             8|             1935|            8562|         4.424806|                   1070.25|         0.726418|
+	
+▶ 方法: SAMFeat (res_Herzjesu_SAMFeat.txt)
+		Herzjesu|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Herzjesu|             8|             1155|            4642|         4.019048|                    580.25|         0.649914|
+	
+▶ 方法: SFD2 (res_Herzjesu_SFD2.txt)
+		Herzjesu|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Herzjesu|             8|             2032|            8912|         4.385827|                    1114.0|         0.684577|
+	
+▶ 方法: ALikeN (res_Herzjesu_ALikeN.txt)
+		Herzjesu|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Herzjesu|             8|             1888|            7223|         3.825742|                   902.875|         0.821045|
+	
+▶ 方法: D2Net (res_Herzjesu_D2Net.txt)
+		Herzjesu|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Herzjesu|             8|             1522|            5154|         3.386334|                    644.25|         1.151197|
+	
+▶ 方法: R2D2 (res_Herzjesu_R2D2.txt)
+		Herzjesu|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Herzjesu|             8|             1416|            7426|          5.24435|                    928.25|         1.145123|
+	
+▶ 方法: GESS (res_Herzjesu_GESS.txt)
+		Herzjesu|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Herzjesu|             8|             1817|            8158|         4.489818|                   1019.75|         0.596051|
+	
+
+
+
+########################################
+数据集: Madrid_Metropolis
+########################################
+
+▶ 方法: MTLDesc (res_Madrid_Metropolis_MTLDesc.txt)
+		Madrid_Metropolis|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Madrid_Metropolis|           605|            31433|          255780|         8.137308|                 422.77686|         0.943507|
+	
+▶ 方法: SuperPoint (res_Madrid_Metropolis_SuperPoint.txt)
+		Madrid_Metropolis|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Madrid_Metropolis|           387|            19763|          113914|         5.764003|                294.351421|         1.029638|
+	
+▶ 方法: SAMFeat (res_Madrid_Metropolis_SAMFeat.txt)
+		Madrid_Metropolis|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Madrid_Metropolis|           351|            12081|          104792|         8.674116|                298.552707|         0.914749|
+	
+▶ 方法: SFD2 (res_Madrid_Metropolis_SFD2.txt)
+		Madrid_Metropolis|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Madrid_Metropolis|           662|            70733|          335060|         4.736969|                506.132931|         1.021527|
+	
+▶ 方法: ALikeN (res_Madrid_Metropolis_ALikeN.txt)
+		Madrid_Metropolis|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Madrid_Metropolis|           171|             7258|           54287|         7.479609|                317.467836|         0.988784|
+	
+▶ 方法: D2Net (res_Madrid_Metropolis_D2Net.txt)
+		Madrid_Metropolis|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Madrid_Metropolis|            94|              700|            4516|         6.451429|                 48.042553|           0.8738|
+	
+▶ 方法: R2D2 (res_Madrid_Metropolis_R2D2.txt)
+		Madrid_Metropolis|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Madrid_Metropolis|           534|            15216|           31757|         2.087079|                 59.470037|         0.832135|
+	
+▶ 方法: GESS (res_Madrid_Metropolis_GESS.txt)
+		Madrid_Metropolis|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Madrid_Metropolis|           273|            13943|          124511|         8.930001|                456.084249|         0.771013|
+	
+
+
+
+########################################
+数据集: South-Building
+########################################
+
+▶ 方法: MTLDesc (res_South-Building_MTLDesc.txt)
+		South-Building|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		South-Building|           128|            23033|          115446|           5.0122|                901.921875|         0.598102|
+	
+▶ 方法: SuperPoint (res_South-Building_SuperPoint.txt)
+		South-Building|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		South-Building|           128|            28298|          156094|         5.516079|               1219.484375|         0.654062|
+	
+▶ 方法: SAMFeat (res_South-Building_SAMFeat.txt)
+		South-Building|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		South-Building|           128|            15799|           78455|         4.965821|                612.929688|         0.577538|
+	
+▶ 方法: SFD2 (res_South-Building_SFD2.txt)
+		South-Building|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		South-Building|           128|            32435|          201428|         6.210205|                1573.65625|         0.598595|
+	
+▶ 方法: ALikeN (res_South-Building_ALikeN.txt)
+		South-Building|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		South-Building|           128|            51710|          326156|         6.307407|                2548.09375|         0.525056|
+	
+▶ 方法: D2Net (res_South-Building_D2Net.txt)
+		South-Building|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		South-Building|            82|             4768|           22604|         4.740772|                275.658537|         1.127022|
+	
+▶ 方法: R2D2 (res_South-Building_R2D2.txt)
+		South-Building|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		South-Building|           106|            10263|           53968|         5.258501|                509.132075|         0.951252|
+	
+▶ 方法: GESS (res_South-Building_GESS.txt)
+		South-Building|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		South-Building|           126|            17823|           93419|         5.241486|                741.420635|         0.472979|
+	
+
+
+
+########################################
+数据集: Tower_of_London
+########################################
+
+▶ 方法: MTLDesc (res_Tower_of_London_MTLDesc.txt)
+		Tower_of_London|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Tower_of_London|           796|            45880|          349003|         7.606866|                 438.44598|         0.901768|
+	
+▶ 方法: SuperPoint (res_Tower_of_London_SuperPoint.txt)
+		Tower_of_London|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Tower_of_London|           677|            60955|          265403|         4.354081|                392.028065|         0.988035|
+	
+▶ 方法: SAMFeat (res_Tower_of_London_SAMFeat.txt)
+		Tower_of_London|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Tower_of_London|           533|            17815|          138283|         7.762167|                259.442777|         0.833844|
+	
+▶ 方法: SFD2 (res_Tower_of_London_SFD2.txt)
+		Tower_of_London|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Tower_of_London|           939|           129593|          588872|         4.544011|                627.126731|         1.023075|
+	
+▶ 方法: ALikeN (res_Tower_of_London_ALikeN.txt)
+		Tower_of_London|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Tower_of_London|           838|           194270|          678347|         3.491774|                809.483294|         0.945725|
+	
+▶ 方法: D2Net (res_Tower_of_London_D2Net.txt)
+		Tower_of_London|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Tower_of_London|           804|            11470|           24768|         2.159372|                  30.80597|         0.893976|
+	
+▶ 方法: R2D2 (res_Tower_of_London_R2D2.txt)
+		Tower_of_London|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Tower_of_London|           915|            50968|          115617|         2.268423|                126.357377|         0.982039|
+	
+▶ 方法: GESS (res_Tower_of_London_GESS.txt)
+		Tower_of_London|num_reg_images|num_sparse_points|num_observations|mean_track_length|num_observations_per_image|mean_reproj_error|
+		Tower_of_London|           426|            20158|          172577|         8.561216|                405.110329|         0.693657|
+	
+
+
+
